@@ -1,1 +1,2 @@
-# machine-learning frequently used snippets for reference.
+# Machine Learning
+Frequently used snippets for reference.
